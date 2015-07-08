@@ -1,0 +1,39 @@
+layer.recompute()
+neuron.recompute()
+vector<> neuron.inputs //the indices in the previous layer.
+
+
+for each layer
+	for each neuron
+		
+
+it's basically a weights array with a lot of zeroes.
+weights = CollapseMatrixToArray(
+	[0,  0,  0,  0,  0;
+	 0,  0,  0,  0,  0;
+	 0,  0,0.5,0.6,0.4;
+	 0,  0,0.1,0.7,0.9;
+	 0,  0,0.3,0.6,0.3]
+)
+
+or: mutationRate = CollapseMatrixToArray(
+	[0,  0,  0,  0,  0;
+	 0,  0,  0,  0,  0;
+	 0,  0,  1,  1,  1;
+	 0,  0,  1,  1,  1;
+	 0,  0,  1,  1,  1]
+)
+
+
+
+parallel_for in Octave?
+
+learn some econ now
+what are those blobby aerodynamicish things under the wings of every aircraft
+
+
+san francisco is cool!
+what even are those ashphalt made of . . .
+wow air traffic control op
+chat @ js :)()( idk hm interesting. act just as a friend. Hm. Idkyea. How does she feel? Am I still a creep?)
+
